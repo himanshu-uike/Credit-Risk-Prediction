@@ -34,12 +34,9 @@ This project predicts whether a customer is likely to default on a loan using ma
 ```bash
 streamlit run app.py
 ```
-## ▶️ Online
 
-```bash
-[streamlit run app](https://credit-risk-prediction-my3zg53cmtghuadvkccesa.streamlit.app/)
-```
-
+## 🚀 Live Demo
+[Open App](https://credit-risk-prediction-my3zg53cmtghuadvkccesa.streamlit.app/)
 ## 📷 Output
 
 Predicts:
