@@ -37,7 +37,7 @@ streamlit run app.py
 ## ▶️ Online
 
 ```bash
-[streamlit run app.py](https://credit-risk-prediction-my3zg53cmtghuadvkccesa.streamlit.app/)
+[streamlit run app](https://credit-risk-prediction-my3zg53cmtghuadvkccesa.streamlit.app/)
 ```
 
 ## 📷 Output
